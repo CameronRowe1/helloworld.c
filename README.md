@@ -1,2 +1,2 @@
-# helloworld.c
+# helloworld
 runs simple hello world display
